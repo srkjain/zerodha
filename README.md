@@ -1,2 +1,2 @@
 # zerodha
-zerodha automatic code
+zerodha Trading API code
